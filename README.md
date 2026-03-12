@@ -73,30 +73,6 @@ python opensof.py
 
 ---
 
-## Project Structure
-
-```
-opensof/
-├── opensof.py        # Main script
-├── .env              # API key (not committed)
-├── assets/
-│   └── logo.png      # Project logo
-└── README.md
-```
-
----
-
-## Requirements file
-
-Create a `requirements.txt` with:
-
-```
-requests
-python-dotenv
-```
-
----
-
 ## Related
 
 - [SofIA](https://sof-networks.vercel.app) — the original, full version of the assistant
