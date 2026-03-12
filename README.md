@@ -21,7 +21,7 @@
 
 > *SofIA* comes from the Greek **σοφία** (*Sophia*) — meaning **wisdom**.
 
-OpenSof runs entirely in your terminal, powered by **Groq** and the **Llama 3.1 8B** model.
+OpenSof runs entirely in your terminal, powered by **Groq** and the **Qwen 3 32B** model.
 
 ---
 
